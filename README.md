@@ -10,14 +10,14 @@ This page will summarize how to navigate CLC Genomic Workbench and HALOH LTE Use
 
 ![workflow snapshot](https://github.com/JoyLove0/LOH_Caller/assets/108104001/ba0c8a88-781f-4789-baf7-7d2ed7c3039c)
 
--Open CLC Genomic Workbench 
--Import Illumina
--Add Files
--Next and Save to designated folder
--Finish
--Find "Evaluation LOH Clone Variant" Workflow and Click Run
--Select Reads and transfer
--Finish
+- Open CLC Genomic Workbench 
+- Import Illumina
+- Add Files
+- Next and Save to designated folder
+- Finish
+- Find "Evaluation LOH Clone Variant" Workflow and Click Run
+- Select Reads and transfer
+- Finish
 
 ## Step 2: Running HALOH LTE User Interface
 
