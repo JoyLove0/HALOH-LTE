@@ -1,4 +1,0 @@
-JS39R1_S56_L003 (Reads, Individual Track).vcf
-JS39W1_S57_L003-1 (Reads, Individual Track).vcf
-JS39W3_S59_L003 (Reads, Individual Track).vcf
-JS39W4_S60_L003-1 (Reads, Individual Track).vcf
